@@ -1,0 +1,80 @@
+{
+    "Apps": {
+        "JQCADToolsQt": {
+            "Name": "JQCADToolsQt",
+            "FileModifyInfos": null,
+            "FileCommonModifyInfos": {
+                "JQCADToolsQt": [
+                    {
+                        "Name": "JQCADToolsQt",
+                        "ReplacePatterns": [
+                            {
+                                "Search": [
+                                    0,
+                                    1,
+                                    235,
+                                    63,
+                                    72,
+                                    141,
+                                    21
+                                ],
+                                "Replace": [
+                                    0,
+                                    1,
+                                    236,
+                                    63,
+                                    72,
+                                    141,
+                                    21
+                                ],
+                                "Tips": null,
+                                "SimilarCategories": null,
+                                "ChooseSimilarCategoriesMsg": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "JQCADTools": {
+            "Name": "JQCADTools",
+            "FileModifyInfos": null,
+            "FileCommonModifyInfos": {
+                "JQCADTools": [
+                    {
+                        "Name": "JQCADTools",
+                        "ReplacePatterns": [
+                            {
+                                "Search": [
+                                    0,
+                                    1,
+                                    235,
+                                    63,
+                                    72,
+                                    141,
+                                    21
+                                ],
+                                "Replace": [
+                                    0,
+                                    1,
+                                    236,
+                                    63,
+                                    72,
+                                    141,
+                                    21
+                                ],
+                                "Tips": null,
+                                "SimilarCategories": null,
+                                "ChooseSimilarCategoriesMsg": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+    },
+    "LatestVersion": "5.0",
+    "Notice": "",
+    "NoticeUrl": "",
+    "PatchVersion": 20260725
+}
