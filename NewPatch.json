@@ -59,7 +59,7 @@
                                 "Replace": [
                                     0,
                                     1,
-                                    117,
+                                    235,
                                     63,
                                     72,
                                     141,
@@ -78,5 +78,5 @@
     "LatestVersion": "5.0",
     "Notice": "",
     "NoticeUrl": "",
-    "PatchVersion": 20260725
+    "PatchVersion": 2026/08/20
 }
